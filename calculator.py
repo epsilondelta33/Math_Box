@@ -11,6 +11,3 @@ def divide(a, b):
 def multiply_new(a, b):
 	return a*b
 
-def say_hello():
-	print("hello")
-
